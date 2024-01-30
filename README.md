@@ -8,9 +8,9 @@
 - 🌱 Studying Web Development
 - 😄 Pronouns: Ele/Dele
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianoroque&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianoroquee&show_icons=true&theme=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoroque&layout=donut-vertical)](https://github.com/adrianoroque/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoroquee&layout=donut-vertical)](https://github.com/adrianoroquee/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
